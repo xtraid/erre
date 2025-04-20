@@ -190,3 +190,4 @@ which(sample(10) < 4)
 #6. Crea un vettore x di lunghezza 4. Cosa restituisce il codice?
 x[c(TRUE, TRUE, NA, FALSE)]
 
+
